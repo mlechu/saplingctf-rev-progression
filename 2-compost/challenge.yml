@@ -1,0 +1,26 @@
+name: compost
+author: em
+category: rev
+
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 30
+  minimum: 50
+
+description: |
+  No source code for this one, but you may still find it familiar.
+
+flags:
+  - "maple{hello_from_the_decompiler}"
+
+tags:
+  - progression
+  - beginner
+
+files:
+  - static/compost
+
+state: hidden
+version: "0.1"

@@ -1,0 +1,27 @@
+name: seedling
+author: em
+category: rev
+
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 30
+  minimum: 50
+
+description: |
+  Jason told me to write a description for this, but I have nothing to say.
+  Read the code, not this!
+
+flags:
+  - "maple{classic_structs_and_functions_for_your_viewing_pleasure_in_ghidra}"
+
+tags:
+  - progression
+  - beginner
+
+files:
+  - static/seedling.c
+
+state: hidden
+version: "0.1"

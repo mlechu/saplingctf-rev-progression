@@ -1,0 +1,27 @@
+name: ai-art
+author: em
+category: rev
+
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 30
+  minimum: 50
+
+description: |
+  i forgot what prompt made this art please help
+
+flags:
+  - "maple{who_gave_computers_the_right?}"
+
+tags:
+  - progression
+  - beginner
+
+files:
+  - static/art
+  - static/art.txt
+
+state: hidden
+version: "0.1"
